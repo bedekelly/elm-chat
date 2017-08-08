@@ -1,6 +1,8 @@
 # Elm Chat
 #### A simple responsive chat app using Elm.
 
+#### _Try it out [here](http://elm-chat.s3-website.eu-west-2.amazonaws.com/)_!
+
 [Elm](http://elm-lang.org/) is a programming language which compiles to HTML and JavaScript. 
 Elm's advantages include an intuitive functional reactive programming style, a no-runtime-error guarantee, 
 and a time-travelling debugger.

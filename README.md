@@ -1,5 +1,5 @@
 # Elm Chat
-#### A simple responsive chat app using Elm.
+#### A simple chat app using Elm.
 
 #### _Try it out [here](http://elm-chat.s3-website.eu-west-2.amazonaws.com/)!_
 

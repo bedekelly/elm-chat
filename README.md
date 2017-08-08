@@ -5,7 +5,7 @@
 Elm's advantages include an intuitive functional reactive programming style, a no-runtime-error guarantee, 
 and a time-travelling debugger.
 
-![](screenshot1.png)
+![](screenshot.png)
 
 This application:
 * Connects to a WebSocket server;

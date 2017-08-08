@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+  font-family: 'Raleway', 'Helvetica Neue', sans-serif;
+  line-height: 1.6;
+  font-size: 1.5em;
+}
+
+footer {
+  top: 2rem;
+  width: 100%;
+}
+
+#messages {
+  overflow-x: hidden;
+  height: 60vh;
+  background-color: #efeff4;
+  border-radius: 6px;
+  padding-top: 10px;
+}
+
+textarea {
+  margin-top: 10px;
+  width: 83%;
+  height: 3vh;
+  border-radius: 6px;
+  padding-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  display: inline-block;
+  margin-right: 2%;
+}
+
+#send-button {
+  display: inline-block;
+  padding: 0;
+  float: right;
+  margin-top: 10px;
+  width: 15%;
+  height: 9vh;
+}
+
+#container {
+  max-width: 800px;
+  padding: 30px;
+  margin: 0 auto;
+}
+
+
+form {
+  margin-bottom: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 2vh;
+  margin-bottom: 5vh;
+}
+
+.message-container {
+  margin-left: 1.5vh;
+  width: auto;
+  margin-right: 1.5vh;
+  display: flex;
+}
+
+blockquote {
+  background-color: #fefeff;
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin-left: 1.5vh;
+  line-height: 1.6;
+  display: block;
+  max-width: 30vw;
+  width: auto;
+}
+
+.sent-by-us {
+  background-color: #7777dd;
+  color: white;
+  margin-left: auto;
+  margin-right: 1.5vh;
+  float: right;
+}
+
+.sent-by-them {
+  display: inline-block;
+}

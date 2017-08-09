@@ -7,7 +7,7 @@
 Elm's advantages include an intuitive functional reactive programming style, a no-runtime-error guarantee, 
 and a time-travelling debugger.
 
-![](screenshot.png)
+[![Screenshot of the Elm chat app](screenshot.png)](http://elm-chat.s3-website.eu-west-2.amazonaws.com/)
 
 This application:
 * Connects to a WebSocket server;

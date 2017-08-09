@@ -73,6 +73,7 @@ blockquote {
   display: block;
   max-width: 30vw;
   width: auto;
+  overflow-wrap: break-word;
 }
 
 .sent-by-us {

@@ -172,7 +172,8 @@ paragraphs =
 view : Model -> Html Msg
 view model =
     div [ id "container" ]
-        [ styles
+        [ meta
+        , styles
         , heading
         , messages model
         , sendForm model
@@ -217,3 +218,8 @@ styles =
 scripts : Html msg
 scripts =
     div [] (List.map script scriptSources)
+
+
+meta : Html msg
+meta =
+     Html.node "meta" [ name "viewport", content "width=device-width, initial-scale=1" ] []
